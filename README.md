@@ -1,6 +1,7 @@
+![logo](https://github.com/0987Abhijitsahoo/Similis-Youtube/blob/main/web%20banner.gif)
 <h1 align="center">Hi 👋, I'm Abhijit Sahoo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" with="400"src="![image](https://github.com/0987Abhijitsahoo/Similis-Youtube/assets/106388418/ea15d84f-982a-4017-86a5-f80a452990eb)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0987abhijitsahoo&label=Profile%20views&color=0e75b6&style=flat" alt="0987abhijitsahoo" /> </p>
 
